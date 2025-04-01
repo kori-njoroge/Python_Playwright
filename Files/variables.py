@@ -14,3 +14,9 @@ greetings = "Hello"
 name = "Zoey"
 
 print(greetings + " " + name)
+
+# F strings
+print(f"{greetings} {name}")
+
+full_greeting = f'{greetings} {name}'
+print(f'{full_greeting}!')
