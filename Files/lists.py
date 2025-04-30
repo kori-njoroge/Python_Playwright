@@ -9,5 +9,7 @@ print(l.pop())
 # append
 # pop
 
-
+# tuples
+# they are immutable, once created you stuck with it
+tuple_a = (23,24,25,1,2,54)
 
