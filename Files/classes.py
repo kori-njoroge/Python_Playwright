@@ -22,7 +22,3 @@ class Vehicle:
 Veh1 = Vehicle("VW", 2)
 
 veh2 = Vehicle("BMW", 2)
-
-
-
-
